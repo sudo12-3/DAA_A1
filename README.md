@@ -1,3 +1,15 @@
+**
+Sriharish Ravichandran - 2022A7PS0511H
+
+Parth Mehta - 2022A7PS0043H
+
+Vishwas Vedantham - 2022A7PS0235H
+
+Vadlamani Akhilesh - 2022A7PS0150H
+
+Vinit Chordiya - 2022A7PS0148H
+
+**
 Webpage Link-
 https://sudo12-3.github.io/DAA_A1/
 
@@ -66,14 +78,14 @@ Some of the datasets contain edges of the form (u,v) as well as (v,u). Consider 
 
 *Individual Contributions*
 
-C++ Implementation of tomita -
+C++ Implementation of tomita - Sriharish and Vishwas
 
-C++ Implementation of Chiba_arboricity -
+C++ Implementation of Chiba_arboricity - Parth Mehta and Sriharish
 
-C++ Implementation of ELS -
+C++ Implementation of ELS - Akhilesh and Vinith
 
-Integrating the algorithms with the datsets -
+Integrating the algorithms with the datsets - Parth and Vishwas
 
-Making the final report -
+Making the final report - Akhilesh and Vinith
 
-Creation of GitHub repository -
+Creation of GitHub repository - Everyone
