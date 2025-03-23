@@ -31,6 +31,8 @@ Drive link for datasets: https://drive.google.com/drive/folders/1b8vsl_dlOhQd9ax
    bash
    git clone https://github.com/your-username/your-repository.git
    cd your-repository
+
+   bash git clone https://github.com/sudo12-3/DAA_A1.git
    
 2. **Compilation of the source code**: 
     bash
